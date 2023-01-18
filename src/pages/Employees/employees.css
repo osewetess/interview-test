@@ -1,0 +1,16 @@
+.name-list{
+    display: grid;
+    margin-left: 35%;
+    font-family: 'Michroma', sans-serif ;
+    
+}
+.employees{
+    padding: 3px;
+    color: rgb(33, 33, 128);
+}
+.team-h1{
+ margin-top: 2%;
+ padding-left: 35%;
+ font-family: 'Rubik Vinyl', cursive;
+ color:deeppink ;
+}
